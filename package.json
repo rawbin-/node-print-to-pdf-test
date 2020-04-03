@@ -1,0 +1,27 @@
+{
+  "name": "node-print-to-pdf-test",
+  "version": "1.0.0",
+  "description": "print to pdf with node.js",
+  "main": "with-puppeteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawbin-/node-print-to-pdf-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawbin-/node-print-to-pdf-test/issues"
+  },
+  "homepage": "https://github.com/rawbin-/node-print-to-pdf-test#readme",
+  "dependencies": {
+    "chrome-debugging-client": "^1.2.0",
+    "chrome-remote-interface": "^0.28.1",
+    "chromedriver": "^80.0.1",
+    "puppeteer": "^2.1.1",
+    "webdriver": "^6.0.13"
+  }
+}
